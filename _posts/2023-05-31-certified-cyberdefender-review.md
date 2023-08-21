@@ -1,7 +1,7 @@
 ---
 title: 'Certified CyberDefender (CCD) - Review de Certificación y Exámen'
 date: 2023-06-06 09:30:00 +0200
-categories: [Review]
+categories: [Review,Certification]
 tags: [CyberDefenders,CCD,Review, Certification]
 image:
   path: /assets/img/commons/certified-cyberdefender-review/ccd_title.png
