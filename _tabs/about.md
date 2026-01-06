@@ -4,21 +4,19 @@ icon: fas fa-info-circle
 order: 4
 ---
 
- ¡Hola! 
-### Soy Juan Jose (aka **w4tson**).
+ Hello! 
+### I’m Juan Jose (aka **w4tson**).
 
-Me gusta programar casi cualquier cosa y entender el por qué funciona. Siempre estoy tratando de estar informado y poner en practica todo lo aprendido.
+I’m a Cybersecurity Analyst obsessed with how things work under the hood.
 
-Actualmente llevo más de 2 años practicando hacking en plataformas online como TryHackMe, Cyberdefenders, BTLO o LetsDefend donde estoy de los puestos TOP.
+Technical Background:
+- Certified: CDSA & CCD holder.
+- Ranked: Top tier on CyberDefenders, LetsDefend, and TryHackMe.
 
-Mi objetivo con este blog es darle más visibilidad al Blue Team en Español y poder compartir mi conocimiento sobre:
-
-* Malware Analysis
-* Threat Intel
-* Incident response
-* Digital Forensics
+What I share here: My goal is to provide high-level insights into the defensive side of security, specifically:
+- DFIR (Digital Forensics & Incident Response)
+- Malware Analysis
+- Threat Intelligence
 
 
-Gracias por tomarte el tiempo por leer esta pequeña introducción sobre mi. 
-
-¡Espero que os guste!
+Defend Smarter, not Harder!
